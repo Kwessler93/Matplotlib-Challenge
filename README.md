@@ -11,7 +11,7 @@ All of the code, calculations, figures, tables, and observations requested in th
 
 ![alt text](Images/image-1.png)
 
-3. The correlation coefficient between mouse weight and the average tumor volume shows that a mouses weight has a direct effect on the tumor size. With the linear regression model we can easily see that the mouse's tumor size increases with their weight. 
+3. The correlation coefficient between mouse weight and the average tumor volume for the Capomulin treatment shows that a mouse's weight has a direct effect on the tumor size. With the linear regression model we can easily see that the mouse's tumor size increases with their weight. This shows that the Capomulin treatment may not be as effective for a mouse that is overweight. 
 
 ![alt text](Images/image-2.png)
 
